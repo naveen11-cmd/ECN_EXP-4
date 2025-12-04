@@ -26,7 +26,6 @@ Tabular Column:-
 <img width="1393" height="377" alt="Screenshot 2025-11-11 110508" src="https://github.com/user-attachments/assets/44f6109c-4578-4397-a738-d355f5cdcebc" />
 
 
-
 Calculations:-
 
 <img width="638" height="598" alt="image" src="https://github.com/user-attachments/assets/e83e5b4f-f6b3-4cc7-9379-53bec13bfd05" />
